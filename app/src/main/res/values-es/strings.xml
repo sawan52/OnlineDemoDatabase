@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Base de datos de demostración en línea</string>
+    <string name="enter_password">Introducir la contraseña</string>
+    <string name="enter_contact">Ingrese el número de contacto</string>
+    <string name="enter_country">Ingrese el nombre del país</string>
+    <string name="button_text">Insertar en la base de datos</string>
+    <string name="enter_name">Ingrese su nombre</string>
+    <string name="send_to_registration_page">Enviar a la página de registro</string>
+    <string name="change_the_language">Cambia el idioma</string>
+    <string name="register_activity">Actividad de registro</string>
+
+</resources>

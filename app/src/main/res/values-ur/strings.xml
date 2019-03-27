@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">آن لائن ڈیمو ڈیٹا بیس</string>
+    <string name="enter_password">پاس ورڈ درج کریں</string>
+    <string name="enter_contact">رابطہ نمبر درج کریں</string>
+    <string name="enter_country">ملک کا نام درج کریں</string>
+    <string name="button_text">ڈیٹا بیس میں ڈالیں</string>
+    <string name="enter_name">نام درج کریں</string>
+    <string name="send_to_registration_page">رجسٹریشن پیج پر بھیجیں</string>
+    <string name="change_the_language">زبان تبدیل کریں</string>
+    <string name="register_activity">رجسٹر سرگرمی</string>
+
+</resources>

@@ -1,4 +1,5 @@
 <resources>
+
     <string name="app_name">Online Demo Database</string>
     <string name="enter_password">Enter Password</string>
     <string name="enter_contact">Enter Contact Number</string>
@@ -6,4 +7,7 @@
     <string name="button_text">Insert into database</string>
     <string name="enter_name">Enter Name</string>
     <string name="send_to_registration_page">Send to Registration Page</string>
+    <string name="change_the_language">Change the Language</string>
+    <string name="register_activity">Register Activity</string>
+
 </resources>

@@ -1,5 +1,6 @@
 package com.example.onlinedemodatabase;
 
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -17,6 +18,10 @@ public class RegisterActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_register);
+
+        // change Action bar title, if you don't change it according to your systems default language
+        ActionBar actionBar = getSupportActionBar();
+        actionBar.setTitle(getResources().getString(R.string.register_activity));
 
         editText_name = findViewById(R.id.name_edit_text);
         editText_password = findViewById(R.id.password_edit_text);

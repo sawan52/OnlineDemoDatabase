@@ -13,7 +13,7 @@
         android:theme="@style/AppTheme">
 
         <activity android:name=".RegisterActivity"
-            android:label="Register Activity"
+            android:label="@string/register_activity"
             android:parentActivityName=".MainActivity"></activity>
 
         <activity android:name=".MainActivity">

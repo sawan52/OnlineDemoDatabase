@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ऑनलाइन डेमो डेटाबेस</string>
+    <string name="enter_password">पास वर्ड दर्ज करें</string>
+    <string name="enter_contact">संपर्क नंबर दर्ज करें</string>
+    <string name="enter_country">देश का नाम दर्ज करें</string>
+    <string name="button_text">डेटाबेस में डालें</string>
+    <string name="enter_name">नाम दर्ज</string>
+    <string name="send_to_registration_page">पंजीकरण पृष्ठ पर भेजें</string>
+    <string name="change_the_language">भाषा बदलें</string>
+    <string name="register_activity">गतिविधि रजिस्टर करें</string>
+
+</resources>
